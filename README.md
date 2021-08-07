@@ -7,7 +7,7 @@
 Please find attached log file: mylog.log and corresponding output text file: logText.file
 
 # Problen 3
-![](Problem.PNG)
+![](Problem3.PNG)
 
 # Problem 4
 ![](Problem4.PNG)
