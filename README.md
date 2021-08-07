@@ -4,10 +4,10 @@
 ![](Problem1.PNG)
 
 # Problem 2
-Please find attached log file: mylog.log and corresponding output text file: logText.file
+![](Problem2.PNG)
 
 # Problem 3
-![](Problem3.PNG)
+Please find attached log file: mylog.log and corresponding output text file: logText.file
 
 # Problem 4
 ![](Problem4.PNG)
