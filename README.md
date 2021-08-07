@@ -1,4 +1,6 @@
 # MeddiffCoding
+The language is python.
+I used PyCharm for coding.
 
 # Problem 1
 ![](Problem1.PNG)
